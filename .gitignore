@@ -1,0 +1,5 @@
+*.un~
+*.py~
+config.py
+*.html~
+Pipfile~
